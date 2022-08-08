@@ -20,5 +20,3 @@ function webspeed_jquery_enqueue_datepicker() {
 }
 add_action( 'wp_enqueue_scripts', 'webspeed_jquery_enqueue_datepicker' );
 
-
-add_action('wp_enqueue_scripts','ava_test_init');
